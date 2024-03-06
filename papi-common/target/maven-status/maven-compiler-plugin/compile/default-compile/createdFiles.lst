@@ -1,0 +1,14 @@
+com\yupi\papicommon\model\entity\PostFavour.class
+com\yupi\papicommon\model\entity\UserInterfaceInfo.class
+com\yupi\papicommon\model\vo\UserVO.class
+com\yupi\papicommon\model\vo\LoginUserVO.class
+com\yupi\papicommon\model\entity\User.class
+com\yupi\papicommon\model\entity\InterfaceInfo.class
+com\yupi\papicommon\model\enums\InterfaceInfoStatusEnum.class
+com\yupi\papicommon\service\InnerUserInterfaceInfoService.class
+com\yupi\papicommon\model\entity\PostThumb.class
+com\yupi\papicommon\service\InnerInterfaceInfoService.class
+com\yupi\papicommon\model\enums\UserRoleEnum.class
+com\yupi\papicommon\service\InnerUserService.class
+com\yupi\papicommon\model\entity\Post.class
+com\yupi\papicommon\model\enums\FileUploadBizEnum.class
